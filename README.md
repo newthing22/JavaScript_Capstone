@@ -13,14 +13,6 @@
 - JavaScript
 - Webpack
 
-## Live Demo 
-
-[Live Demo Link](https://thecapstone-project-js.netlify.app/)
-
-## Video Demo
-[Video Demo Link](https://www.loom.com/share/1491c0c0ae6344cd9c4b67109e48676d)
-
-
 ## Getting Started
 
 
@@ -28,7 +20,7 @@ To get a local copy up and running follow these simple example steps.
 
 
 - clone the repository by running
-``` git clone https://github.com/Tobinchilongo/JavaScript_Capstone.git ```
+``` git clone https://github.com/newthing22/JavaScript_Capstone.git ```
 - navigate to the folder
 ``` cd JavaScript_Capstone ```
 - Install packages
@@ -44,33 +36,3 @@ To get a local copy up and running follow these simple example steps.
 ### Run tests
 Run the test 
 `npm run test`
-
-## Authors
-
-👤 **Author 1: Tobin Chilongo Jnr**
- 
-
-- GitHub: [@Tobinchilongo](https://github.com/Tobinchilongo)
-- Twitter: [@Tobin_Official](https://twitter.com/Tobin_Official)
-- LinkedIn: [@Tobin Chilongo](https://www.linkedin.com/in/tobin-chilongo-a6736415a/)
-
-👤 **Author 2: Selma Belhadj**
-
-- GitHub: [@selma-belhadj](https://github.com/selma-belhadj)
-- Twitter: [@Bel_Selma16](https://twitter.com/Bel_Selma16)
-- LinkedIn: [@selma-belhadj](https://www.linkedin.com/in/selma-belhadj/)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
